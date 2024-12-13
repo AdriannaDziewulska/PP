@@ -1,0 +1,3 @@
+Program oblicza œredni¹ wartoœæ stypendium studentów pierwszego roku dla danych z pliku studenci.
+
+Œrednia wartoœæ stypendium studentów: 1866

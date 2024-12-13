@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1731054701 source:c:\studia\i semestr\podstawy programowania\zad\lab11 - 1, 4, 7 podstaw\7\7\operacje.cpp
+	"operacje.h"
+
+1731054660 c:\studia\i semestr\podstawy programowania\zad\lab11 - 1, 4, 7 podstaw\7\7\operacje.h
+
+1731054889 source:c:\studia\i semestr\podstawy programowania\zad\lab11 - 1, 4, 7 podstaw\7\7\wyniki.cpp
+	"wyniki.h"
+
+1731054729 c:\studia\i semestr\podstawy programowania\zad\lab11 - 1, 4, 7 podstaw\7\7\wyniki.h
+	"operacje.h"
+	<iostream>
+

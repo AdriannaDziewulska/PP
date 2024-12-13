@@ -1,0 +1,12 @@
+Raport pracowników
+Data raportu: 2024-11-08 12:40:07
+Sporz¹dzi³: Program
+
+Nazwisko       Adres                    Stanowisko          Brutto    
+-------------------------------------------------------------
+Kowalski       Warszawa                 Programista         5000      
+Nowak          Kraków                   Analityk            4500      
+Kaczmarek      Wroc³aw                  Programista         6000      
+
+Podsumowanie dla stanowiska 'Programista':
+Œrednia pensja: 5500 PLN
